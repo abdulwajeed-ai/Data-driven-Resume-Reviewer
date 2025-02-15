@@ -31,7 +31,7 @@ function App() {
         <div className="flex items-center justify-center gap-3 mb-12">
           <Bot className="w-10 h-10 text-primary" />
           <h1 className="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/50">
-            Data Driven Resume Reviwer
+            Data Driven Resume Reviewer
           </h1>
         </div>
 
